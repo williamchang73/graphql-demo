@@ -3,6 +3,9 @@ var graphql = require('graphql');
 var graphqlHTTP = require('express-graphql');
 var express = require('express');
 var graphiql = require('graphiql');
+var models = require("./models");
+
+
 
 // Import the data you created above
 var data = require('./data.json');
