@@ -1,0 +1,30 @@
+{
+  "name": "graphql-demo",
+  "version": "1.0.0",
+  "description": "for demo graphql",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamchang73/graphql-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamchang73/graphql-demo/issues"
+  },
+  "homepage": "https://github.com/williamchang73/graphql-demo#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-graphql": "^0.5.3",
+    "graphiql": "^0.7.5",
+    "graphql": "^0.6.2",
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1"
+  }
+}
